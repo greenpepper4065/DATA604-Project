@@ -1,0 +1,249 @@
+Country_Region,Country_SubRegion,Country_InterRegion,Country
+Africa,Northern Africa,NaN,Algeria
+Africa,Northern Africa,NaN,Egypt
+Africa,Northern Africa,NaN,Libya
+Africa,Northern Africa,NaN,Morocco
+Africa,Northern Africa,NaN,Sudan
+Africa,Northern Africa,NaN,Tunisia
+Africa,Northern Africa,NaN,Western Sahara
+Africa,Sub-Saharan Africa,Eastern Africa,British Indian Ocean Territory
+Africa,Sub-Saharan Africa,Eastern Africa,Burundi
+Africa,Sub-Saharan Africa,Eastern Africa,Comoros
+Africa,Sub-Saharan Africa,Eastern Africa,Djibouti
+Africa,Sub-Saharan Africa,Eastern Africa,Eritrea
+Africa,Sub-Saharan Africa,Eastern Africa,Ethiopia
+Africa,Sub-Saharan Africa,Eastern Africa,French Southern Territories
+Africa,Sub-Saharan Africa,Eastern Africa,Kenya
+Africa,Sub-Saharan Africa,Eastern Africa,Madagascar
+Africa,Sub-Saharan Africa,Eastern Africa,Malawi
+Africa,Sub-Saharan Africa,Eastern Africa,Mauritius
+Africa,Sub-Saharan Africa,Eastern Africa,Mayotte
+Africa,Sub-Saharan Africa,Eastern Africa,Mozambique
+Africa,Sub-Saharan Africa,Eastern Africa,Réunion
+Africa,Sub-Saharan Africa,Eastern Africa,Rwanda
+Africa,Sub-Saharan Africa,Eastern Africa,Seychelles
+Africa,Sub-Saharan Africa,Eastern Africa,Somalia
+Africa,Sub-Saharan Africa,Eastern Africa,South Sudan
+Africa,Sub-Saharan Africa,Eastern Africa,Uganda
+Africa,Sub-Saharan Africa,Eastern Africa,United Republic of Tanzania
+Africa,Sub-Saharan Africa,Eastern Africa,Zambia
+Africa,Sub-Saharan Africa,Eastern Africa,Zimbabwe
+Africa,Sub-Saharan Africa,Middle Africa,Angola
+Africa,Sub-Saharan Africa,Middle Africa,Cameroon
+Africa,Sub-Saharan Africa,Middle Africa,Central African Republic
+Africa,Sub-Saharan Africa,Middle Africa,Chad
+Africa,Sub-Saharan Africa,Middle Africa,Congo
+Africa,Sub-Saharan Africa,Middle Africa,Democratic Republic of the Congo
+Africa,Sub-Saharan Africa,Middle Africa,Equatorial Guinea
+Africa,Sub-Saharan Africa,Middle Africa,Gabon
+Africa,Sub-Saharan Africa,Middle Africa,Sao Tome and Principe
+Africa,Sub-Saharan Africa,Southern Africa,Botswana
+Africa,Sub-Saharan Africa,Southern Africa,Eswatini
+Africa,Sub-Saharan Africa,Southern Africa,Lesotho
+Africa,Sub-Saharan Africa,Southern Africa,Namibia
+Africa,Sub-Saharan Africa,Southern Africa,South Africa
+Africa,Sub-Saharan Africa,Western Africa,Benin
+Africa,Sub-Saharan Africa,Western Africa,Burkina Faso
+Africa,Sub-Saharan Africa,Western Africa,Cabo Verde
+Africa,Sub-Saharan Africa,Western Africa,Côte d’Ivoire
+Africa,Sub-Saharan Africa,Western Africa,Gambia
+Africa,Sub-Saharan Africa,Western Africa,Ghana
+Africa,Sub-Saharan Africa,Western Africa,Guinea
+Africa,Sub-Saharan Africa,Western Africa,Guinea-Bissau
+Africa,Sub-Saharan Africa,Western Africa,Liberia
+Africa,Sub-Saharan Africa,Western Africa,Mali
+Africa,Sub-Saharan Africa,Western Africa,Mauritania
+Africa,Sub-Saharan Africa,Western Africa,Niger
+Africa,Sub-Saharan Africa,Western Africa,Nigeria
+Africa,Sub-Saharan Africa,Western Africa,Saint Helena
+Africa,Sub-Saharan Africa,Western Africa,Senegal
+Africa,Sub-Saharan Africa,Western Africa,Sierra Leone
+Africa,Sub-Saharan Africa,Western Africa,Togo
+Americas,Latin America and the Caribbean,Caribbean,Anguilla
+Americas,Latin America and the Caribbean,Caribbean,Antigua and Barbuda
+Americas,Latin America and the Caribbean,Caribbean,Aruba
+Americas,Latin America and the Caribbean,Caribbean,Bahamas
+Americas,Latin America and the Caribbean,Caribbean,Barbados
+Americas,Latin America and the Caribbean,Caribbean,"Bonaire, Sint Eustatius and Saba"
+Americas,Latin America and the Caribbean,Caribbean,British Virgin Islands
+Americas,Latin America and the Caribbean,Caribbean,Cayman Islands
+Americas,Latin America and the Caribbean,Caribbean,Cuba
+Americas,Latin America and the Caribbean,Caribbean,Curaçao
+Americas,Latin America and the Caribbean,Caribbean,Dominica
+Americas,Latin America and the Caribbean,Caribbean,Dominican Republic
+Americas,Latin America and the Caribbean,Caribbean,Grenada
+Americas,Latin America and the Caribbean,Caribbean,Guadeloupe
+Americas,Latin America and the Caribbean,Caribbean,Haiti
+Americas,Latin America and the Caribbean,Caribbean,Jamaica
+Americas,Latin America and the Caribbean,Caribbean,Martinique
+Americas,Latin America and the Caribbean,Caribbean,Montserrat
+Americas,Latin America and the Caribbean,Caribbean,Puerto Rico
+Americas,Latin America and the Caribbean,Caribbean,Saint Barthélemy
+Americas,Latin America and the Caribbean,Caribbean,Saint Kitts and Nevis
+Americas,Latin America and the Caribbean,Caribbean,Saint Lucia
+Americas,Latin America and the Caribbean,Caribbean,Saint Martin (French Part)
+Americas,Latin America and the Caribbean,Caribbean,Saint Vincent and the Grenadines
+Americas,Latin America and the Caribbean,Caribbean,Sint Maarten (Dutch part)
+Americas,Latin America and the Caribbean,Caribbean,Trinidad and Tobago
+Americas,Latin America and the Caribbean,Caribbean,Turks and Caicos Islands
+Americas,Latin America and the Caribbean,Caribbean,United States Virgin Islands
+Americas,Latin America and the Caribbean,Central America,Belize
+Americas,Latin America and the Caribbean,Central America,Costa Rica
+Americas,Latin America and the Caribbean,Central America,El Salvador
+Americas,Latin America and the Caribbean,Central America,Guatemala
+Americas,Latin America and the Caribbean,Central America,Honduras
+Americas,Latin America and the Caribbean,Central America,Mexico
+Americas,Latin America and the Caribbean,Central America,Nicaragua
+Americas,Latin America and the Caribbean,Central America,Panama
+Americas,Latin America and the Caribbean,South America,Argentina
+Americas,Latin America and the Caribbean,South America,Bolivia (Plurinational State of)
+Americas,Latin America and the Caribbean,South America,Bouvet Island
+Americas,Latin America and the Caribbean,South America,Brazil
+Americas,Latin America and the Caribbean,South America,Chile
+Americas,Latin America and the Caribbean,South America,Colombia
+Americas,Latin America and the Caribbean,South America,Ecuador
+Americas,Latin America and the Caribbean,South America,Falkland Islands (Malvinas)
+Americas,Latin America and the Caribbean,South America,French Guiana
+Americas,Latin America and the Caribbean,South America,Guyana
+Americas,Latin America and the Caribbean,South America,Paraguay
+Americas,Latin America and the Caribbean,South America,Peru
+Americas,Latin America and the Caribbean,South America,South Georgia and the South Sandwich Islands
+Americas,Latin America and the Caribbean,South America,Suriname
+Americas,Latin America and the Caribbean,South America,Uruguay
+Americas,Latin America and the Caribbean,South America,Venezuela (Bolivarian Republic of)
+Americas,Northern America,NaN,Bermuda
+Americas,Northern America,NaN,Canada
+Americas,Northern America,NaN,Greenland
+Americas,Northern America,NaN,Saint Pierre and Miquelon
+Americas,Northern America,NaN,United States of America
+NaN,NaN,NaN,Antarctica
+Asia,Central Asia,NaN,Kazakhstan
+Asia,Central Asia,NaN,Kyrgyzstan
+Asia,Central Asia,NaN,Tajikistan
+Asia,Central Asia,NaN,Turkmenistan
+Asia,Central Asia,NaN,Uzbekistan
+Asia,Eastern Asia,NaN,China
+Asia,Eastern Asia,NaN,"China, Hong Kong Special Administrative Region"
+Asia,Eastern Asia,NaN,"China, Macao Special Administrative Region"
+Asia,Eastern Asia,NaN,Democratic People's Republic of Korea
+Asia,Eastern Asia,NaN,Japan
+Asia,Eastern Asia,NaN,Mongolia
+Asia,Eastern Asia,NaN,Republic of Korea
+Asia,South-eastern Asia,NaN,Brunei Darussalam
+Asia,South-eastern Asia,NaN,Cambodia
+Asia,South-eastern Asia,NaN,Indonesia
+Asia,South-eastern Asia,NaN,Lao People's Democratic Republic
+Asia,South-eastern Asia,NaN,Malaysia
+Asia,South-eastern Asia,NaN,Myanmar
+Asia,South-eastern Asia,NaN,Philippines
+Asia,South-eastern Asia,NaN,Singapore
+Asia,South-eastern Asia,NaN,Thailand
+Asia,South-eastern Asia,NaN,Timor-Leste
+Asia,South-eastern Asia,NaN,Viet Nam
+Asia,Southern Asia,NaN,Afghanistan
+Asia,Southern Asia,NaN,Bangladesh
+Asia,Southern Asia,NaN,Bhutan
+Asia,Southern Asia,NaN,India
+Asia,Southern Asia,NaN,Iran (Islamic Republic of)
+Asia,Southern Asia,NaN,Maldives
+Asia,Southern Asia,NaN,Nepal
+Asia,Southern Asia,NaN,Pakistan
+Asia,Southern Asia,NaN,Sri Lanka
+Asia,Western Asia,NaN,Armenia
+Asia,Western Asia,NaN,Azerbaijan
+Asia,Western Asia,NaN,Bahrain
+Asia,Western Asia,NaN,Cyprus
+Asia,Western Asia,NaN,Georgia
+Asia,Western Asia,NaN,Iraq
+Asia,Western Asia,NaN,Israel
+Asia,Western Asia,NaN,Jordan
+Asia,Western Asia,NaN,Kuwait
+Asia,Western Asia,NaN,Lebanon
+Asia,Western Asia,NaN,Oman
+Asia,Western Asia,NaN,Qatar
+Asia,Western Asia,NaN,Saudi Arabia
+Asia,Western Asia,NaN,State of Palestine
+Asia,Western Asia,NaN,Syrian Arab Republic
+Asia,Western Asia,NaN,Türkiye
+Asia,Western Asia,NaN,United Arab Emirates
+Asia,Western Asia,NaN,Yemen
+Europe,Eastern Europe,NaN,Belarus
+Europe,Eastern Europe,NaN,Bulgaria
+Europe,Eastern Europe,NaN,Czechia
+Europe,Eastern Europe,NaN,Hungary
+Europe,Eastern Europe,NaN,Poland
+Europe,Eastern Europe,NaN,Republic of Moldova
+Europe,Eastern Europe,NaN,Romania
+Europe,Eastern Europe,NaN,Russian Federation
+Europe,Eastern Europe,NaN,Slovakia
+Europe,Eastern Europe,NaN,Ukraine
+Europe,Northern Europe,NaN,Åland Islands
+Europe,Northern Europe,NaN,Denmark
+Europe,Northern Europe,NaN,Estonia
+Europe,Northern Europe,NaN,Faroe Islands
+Europe,Northern Europe,NaN,Finland
+Europe,Northern Europe,NaN,Guernsey
+Europe,Northern Europe,NaN,Iceland
+Europe,Northern Europe,NaN,Ireland
+Europe,Northern Europe,NaN,Isle of Man
+Europe,Northern Europe,NaN,Jersey
+Europe,Northern Europe,NaN,Latvia
+Europe,Northern Europe,NaN,Lithuania
+Europe,Northern Europe,NaN,Norway
+Europe,Northern Europe,NaN,Svalbard and Jan Mayen Islands
+Europe,Northern Europe,NaN,Sweden
+Europe,Northern Europe,NaN,United Kingdom of Great Britain and Northern Ireland
+Europe,Southern Europe,NaN,Albania
+Europe,Southern Europe,NaN,Andorra
+Europe,Southern Europe,NaN,Bosnia and Herzegovina
+Europe,Southern Europe,NaN,Croatia
+Europe,Southern Europe,NaN,Gibraltar
+Europe,Southern Europe,NaN,Greece
+Europe,Southern Europe,NaN,Holy See
+Europe,Southern Europe,NaN,Italy
+Europe,Southern Europe,NaN,Malta
+Europe,Southern Europe,NaN,Montenegro
+Europe,Southern Europe,NaN,North Macedonia
+Europe,Southern Europe,NaN,Portugal
+Europe,Southern Europe,NaN,San Marino
+Europe,Southern Europe,NaN,Serbia
+Europe,Southern Europe,NaN,Slovenia
+Europe,Southern Europe,NaN,Spain
+Europe,Western Europe,NaN,Austria
+Europe,Western Europe,NaN,Belgium
+Europe,Western Europe,NaN,France
+Europe,Western Europe,NaN,Germany
+Europe,Western Europe,NaN,Liechtenstein
+Europe,Western Europe,NaN,Luxembourg
+Europe,Western Europe,NaN,Monaco
+Europe,Western Europe,NaN,Netherlands (Kingdom of the)
+Europe,Western Europe,NaN,Switzerland
+Oceania,Australia and New Zealand,NaN,Australia
+Oceania,Australia and New Zealand,NaN,Christmas Island
+Oceania,Australia and New Zealand,NaN,Cocos (Keeling) Islands
+Oceania,Australia and New Zealand,NaN,Heard Island and McDonald Islands
+Oceania,Australia and New Zealand,NaN,New Zealand
+Oceania,Australia and New Zealand,NaN,Norfolk Island
+Oceania,Melanesia,NaN,Fiji
+Oceania,Melanesia,NaN,New Caledonia
+Oceania,Melanesia,NaN,Papua New Guinea
+Oceania,Melanesia,NaN,Solomon Islands
+Oceania,Melanesia,NaN,Vanuatu
+Oceania,Micronesia,NaN,Guam
+Oceania,Micronesia,NaN,Kiribati
+Oceania,Micronesia,NaN,Marshall Islands
+Oceania,Micronesia,NaN,Micronesia (Federated States of)
+Oceania,Micronesia,NaN,Nauru
+Oceania,Micronesia,NaN,Northern Mariana Islands
+Oceania,Micronesia,NaN,Palau
+Oceania,Micronesia,NaN,United States Minor Outlying Islands
+Oceania,Polynesia,NaN,American Samoa
+Oceania,Polynesia,NaN,Cook Islands
+Oceania,Polynesia,NaN,French Polynesia
+Oceania,Polynesia,NaN,Niue
+Oceania,Polynesia,NaN,Pitcairn
+Oceania,Polynesia,NaN,Samoa
+Oceania,Polynesia,NaN,Tokelau
+Oceania,Polynesia,NaN,Tonga
+Oceania,Polynesia,NaN,Tuvalu
+Oceania,Polynesia,NaN,Wallis and Futuna Islands
